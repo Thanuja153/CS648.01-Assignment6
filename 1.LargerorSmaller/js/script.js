@@ -12,4 +12,3 @@ else if(num1> num2){
 }else{
     document.write(num2 +  " is larger");
 }
-Footer
